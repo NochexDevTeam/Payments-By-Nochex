@@ -3,7 +3,7 @@ Nochex Plugin for WordPress - Payments by Nochex
 
 Installation
 ============
-To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://support.nochex.com/kb/faq.php?id=216">here</a>
+To Install and Setup the Nochex module please follow our integration guide, which can be found <a href="https://ssl.nochex.com/downloads/Nochex Payment Button/PaymentsByNochex.pdf">here</a>
 
 Support
 =====================
