@@ -36,7 +36,7 @@ if (isset($_REQUEST['wpeppsubNCX-listener']) && $_REQUEST['wpeppsubNCX-listener'
 	}
 	
 	
-	if ($response == "AUTHORISED") {  // searches response to see if AUTHORISED is present if it isn’t a failure message is displayed
+	if ($response == "AUTHORISED") {  // searches response to see if AUTHORISED is present if it isnâ€™t a failure message is displayed
 		$msg = "APC was AUTHORISED. This was a " . $testStatus . " transaction.";// if AUTHORISED was found in the response then it was successful
 	} else { 
 	   $msg = "APC was not AUTHORISED.\r\n\r\n$debug";  // displays debug message  
@@ -144,8 +144,7 @@ if (isset($_REQUEST['wpeppsubNCX-listener']) && $_REQUEST['wpeppsubNCX-listener'
 					update_post_meta($posts_id, 'wpeppsubNCX_expiry_date', $setExpiry);
 	
 }else if (isset($_REQUEST['wpeppsubNCX-listener']) && $_REQUEST['wpeppsubNCX-listener'] == 'SCS'){
-
-header("Location:https://nationalinsurance.uk.com/");
+ 
 
 get_header();
 
