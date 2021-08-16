@@ -43,8 +43,6 @@ function wpeppsubNCX_options($atts) {
 		$button_url = "https://ssl.nochex.com/Downloads/Nochex%20Payment%20Button/nochex_checkout.png";	
 	}elseif($wpeppsubNCX_button_image == 5){
 		$button_url = "https://ssl.nochex.com/Downloads/Nochex%20Payment%20Button/cardsboth1.gif";
-	}elseif($wpeppsubNCX_button_image == 6){
-		$button_url = "https://ssl.nochex.com/Downloads/Nochex%20Payment%20Button/cardsboth2.gif";	
 	}else{
 		$button_url = "https://ssl.nochex.com/Downloads/Nochex%20Payment%20Button/nochex_pay.png";	
 	}
