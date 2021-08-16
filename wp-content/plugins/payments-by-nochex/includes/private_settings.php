@@ -205,7 +205,7 @@ function wpeppsubNCX_plugin_options() {
 			<div style="background-color:#fff;padding:8px;"> 
 				<br />
 				This plugin will allow you to accept credit / debit card payments on your website by Nochex.
-			<br /><br />	<img src="https://www.nochex.com/logobase-secure-images/logobase-banners/clear-amex-mp.png" alt="Logobase" style="max-width:300px" />
+			<br /><br />	<img src="https://www.nochex.com/logobase-secure-images/logobase-banners/clear.png" alt="Logobase" style="max-width:300px" />
 			</div>
 		</div>
 		
