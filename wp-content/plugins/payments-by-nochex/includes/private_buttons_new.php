@@ -172,7 +172,7 @@ if ( !current_user_can( "manage_options" ) )  {
 				<input type="radio" name="wpeppsubNCX_button_image"  value="2" <?php if(!empty($_POST['wpeppsubNCX_button_image']) == "2") { echo "checked"; } ?> /><img src="https://ssl.nochex.com/Downloads/Nochex Payment Button/payme.gif" /><br/><br/>
 				<input type="radio" name="wpeppsubNCX_button_image"  value="3" <?php if(!empty($_POST['wpeppsubNCX_button_image']) == "3") { echo "checked"; } ?> /><img src="https://ssl.nochex.com/Downloads/Nochex Payment Button/nochex_pay.png" /><br/><br/>
 				<input type="radio" name="wpeppsubNCX_button_image"  value="4" <?php if(!empty($_POST['wpeppsubNCX_button_image']) == "4") { echo "checked"; } ?> /><img src="https://ssl.nochex.com/Downloads/Nochex Payment Button/nochex_checkout.png" /><br/><br/>
-				<input type="radio" name="wpeppsubNCX_button_image"  value="5" <?php if(!empty($_POST['wpeppsubNCX_button_image']) == "5") { echo "checked"; } ?> /><img src="https://ssl.nochex.com/Downloads/Nochex Payment Button/cardsboth1.gif" /><br/><br/>
+				<input type="radio" name="wpeppsubNCX_button_image"  value="5" <?php if(!empty($_POST['wpeppsubNCX_button_image']) == "5") { echo "checked"; } ?> /><img src="https://ssl.nochex.com/Downloads/Nochex Payment Button/cardsboth.gif" /><br/><br/>
 				</td><td></td></tr>
 				
 				<tr><td style="border-bottom: 1px solid #ddd;" colspan=3><br /></td></tr>
