@@ -179,7 +179,7 @@ if (isset($_POST['update'])) {
 				<input type="radio" name="wpeppsubNCX_button_image"  value="2"  <?php if(get_post_meta($post_id,'wpeppsubNCX_button_image',true) == "2") { echo "checked"; } ?> /><img src="<?php echo plugins_url('images/payme.gif', __FILE__ ); ?>" /><br/><br/>
 				<input type="radio" name="wpeppsubNCX_button_image"  value="3"  <?php if(get_post_meta($post_id,'wpeppsubNCX_button_image',true) == "3") { echo "checked"; } ?> /><img src="<?php echo plugins_url('images/nochex_pay.png', __FILE__ ); ?>" /><br/><br/>
 				<input type="radio" name="wpeppsubNCX_button_image"  value="4"  <?php if(get_post_meta($post_id,'wpeppsubNCX_button_image',true) == "4") { echo "checked"; } ?> /><img src="<?php echo plugins_url('images/nochex_checkout.png', __FILE__ ); ?>" /><br/><br/>
-				<input type="radio" name="wpeppsubNCX_button_image"  value="5"  <?php if(get_post_meta($post_id,'wpeppsubNCX_button_image',true) == "5") { echo "checked"; } ?> /><img src="<?php echo plugins_url('images/cardsboth1.gif', __FILE__ ); ?>" /><br/><br/>
+				<input type="radio" name="wpeppsubNCX_button_image"  value="5"  <?php if(get_post_meta($post_id,'wpeppsubNCX_button_image',true) == "5") { echo "checked"; } ?> /><img src="<?php echo plugins_url('images/cardsboth.gif', __FILE__ ); ?>" /><br/><br/>
 				</td><td></td></tr><tr><td>
 				<tr><td style="border-bottom: 1px solid #ddd;" colspan="3"><br /></td></tr>
 				<tr><td>			
